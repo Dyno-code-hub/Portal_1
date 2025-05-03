@@ -1,2 +1,2 @@
-h=input("say something paudy")
+h=input("say something ")
 print(h)
