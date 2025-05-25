@@ -1,2 +1,4 @@
-x=3
 import o
+
+x = 3
+print(o.h)
