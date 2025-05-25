@@ -1,6 +1,3 @@
-from src.z import x
-
-h = input("say something ")
+h = "bido"
 print(h)
 print(h, "stop cheading")
-print(x)
